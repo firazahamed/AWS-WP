@@ -1,1 +1,1 @@
-# AWS-WP
+# Wordpress Installation On Amazon Linux
